@@ -13,3 +13,8 @@ Vou atualizar e fazer crescer essa jornada.
 Você vai me encontrar por aqui compartilhando conteúdos sobre python, analise de dados com pandas, estatística, probabilidade, séries temporais, Power BI, visualização e storytelling com dados, banco de dados relacionais e não relacionais, machine learning e alguns projetos 💡
 
 Além disso, sinta-se a vontade para entrar em contato e entender sobre meus estudos e trabalho.
+
+<div> 
+  <a href="https://www.linkedin.com/in/mariagabrielamiguel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+</div>
