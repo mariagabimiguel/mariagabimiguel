@@ -12,11 +12,11 @@ Vou atualizar e fazer crescer essa jornada.
 
 Nos próximos dias vou focar em cinco projetos práticos para compartilhar as etapas por aqui:
 
+- Sistema de Recomendação
 - Classificação de Medicamentos
 - Campanhas de Marketing e Análise de tráfego
 - Analise de Dados do Varejo
 - Dados Departamento de Recursos Humanos
-- Sistema de Recomendação
 
 Você também vai me encontrar por aqui compartilhando conteúdos sobre Python, Analise de Dados com Pandas, Estatística, Probabilidade, Séries Temporais, Power BI, Visualização e Storytelling com Dados, Banco de Dados relacionais e não relacionais, Machine Learning e alguns projetos 💡
 
