@@ -18,7 +18,7 @@ Nos próximos dias vou focar em cinco projetos práticos para compartilhar as et
 - Dados Departamento de Recursos Humanos
 - Sistema de Recomendação
 
-Você vai me encontrar por aqui compartilhando conteúdos sobre python, analise de dados com pandas, estatística, probabilidade, séries temporais, Power BI, visualização e storytelling com dados, banco de dados relacionais e não relacionais, machine learning e alguns projetos 💡
+Você também vai me encontrar por aqui compartilhando conteúdos sobre Python, Analise de Dados com Pandas, Estatística, Probabilidade, Séries Temporais, Power BI, Visualização e Storytelling com Dados, Banco de Dados relacionais e não relacionais, Machine Learning e alguns projetos 💡
 
 Além disso, sinta-se a vontade para entrar em contato e entender sobre meus estudos e trabalho.
 
