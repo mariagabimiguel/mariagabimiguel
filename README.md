@@ -10,12 +10,13 @@ Essa área é uma linha de estudo que me tira o sono, quero sempre me concentrar
 Sem me limitar a apenas um contexto quero entender o processo, as etapas e praticar projetos de outras áreas também.
 Vou atualizar e fazer crescer essa jornada.
 
-Nos próximos dias vou focar em quatro projetos práticos para compartilhar as etapas por aqui:
+Nos próximos dias vou focar em cinco projetos práticos para compartilhar as etapas por aqui:
 
 - Classificação de Medicamentos
 - Campanhas de Marketing e Análise de tráfego
 - Analise de Dados do Varejo
 - Dados Departamento de Recursos Humanos
+- Sistema de Recomendação
 
 Você vai me encontrar por aqui compartilhando conteúdos sobre python, analise de dados com pandas, estatística, probabilidade, séries temporais, Power BI, visualização e storytelling com dados, banco de dados relacionais e não relacionais, machine learning e alguns projetos 💡
 
