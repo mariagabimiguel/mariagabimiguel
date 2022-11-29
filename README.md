@@ -3,7 +3,7 @@
 
 Estou iniciando meus estudos em Ciência de Dados. 
 
-Sou apaixonada por programação, por matemática e pela área da saúde 🩹
+Sou apaixonada por programação, matemática e pela área da saúde 🩹
 
 Essa área é uma linha de estudo que me tira o sono, quero sempre me concentrar nas soluções dos problemas e tentar assim ajudar de alguma forma. Apesar de esse ser meu grande foco nos estudos em dados, no momento o foco é em aprendizado e desenvolvimento. 
 
